@@ -4,9 +4,9 @@ En etse repositorio se almacena documentación genérica para que pueda estar ac
 
 ## Guia sintasis md
 ### Formato de textos
-** Texto en negrita **
-_ Texto en cursiva _
-~~ Texto equivocado ~~
+**Texto en negrita**
+_Texto en cursiva_
+~~Texto equivocado~~
 
 Para citar:
 > Esta es la cita
