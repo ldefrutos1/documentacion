@@ -2,7 +2,7 @@
 ## Descripcion
 En etse repositorio se almacena documentación genérica para que pueda estar accesible desde por internet
 
-## Guia sintasis md
+## Guia sintaxis md
 ### Formato de textos
 **Texto en negrita**
 _Texto en cursiva_
